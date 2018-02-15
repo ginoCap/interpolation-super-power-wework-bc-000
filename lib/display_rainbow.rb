@@ -1,5 +1,5 @@
 # Write your #display_rainbow method here
 def display_rainbow(array)
-  for i=0;i<array.length;i++
+  for i in 0..array.length
   
 end
